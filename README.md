@@ -56,7 +56,6 @@ Nos enfocamos en brindar soluciones de análisis de datos, inteligencia de negoc
 ### Nuestro equipo
 Nuestro equipo de expertos está constantemente actualizado en las últimas tendencias y tecnologías del mercado laboral para brindar soluciones prácticas y efectivas para nuestros clientes. En DatosEstratégicos , estamos comprometidos con el éxito de nuestros clientes. 
 
-+ [Ada Parhuana](https://github.com/Adapa22) -  Data Engineer
 + [Alexander Rios](https://github.com/Alekzander10) - Data Analyst
 + [Cristian Andres](https://github.com/cristos34) - Data Engineer
 + [Ricardo Soria](https://github.com/RickDev31) - Data Scientist
