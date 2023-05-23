@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Adapa22/PF-MigracionEnAmerica/blob/main/src/portada3.PNG">
+  <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/portada3.PNG">
 </p>
 
 <!-- TABLA DE CONTENIDO -->
@@ -165,10 +165,10 @@ Para ver el diccionario de datos  puede dirigirse al siguente enlace [Diccionari
 ## Esquema ER (Entidad-Relación) 
 Este es un modelo de datos que resulta útil para el diseño de la base de datos, ya que permite visualizar cómo se relacionan los datos antes de construir la estructura de la base de datos.
 
-Para ver el esquema ER (Entidad-Relación)  puede dirigirse al siguente enlace [Esquema ER](https://github.com/Adapa22/PF-MigracionEnAmerica/blob/main/src/MODELO%20ER.jpeg) 
+Para ver el esquema ER (Entidad-Relación)  puede dirigirse al siguente enlace [Esquema ER](https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/MODELO%20ER.jpeg) 
 
 <p align="center">
-  <img src="https://github.com/Adapa22/PF-MigracionEnAmerica/blob/main/src/MODELO%20ER.jpeg?raw=true">
+  <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/MODELO%20ER.jpeg">
 </p>  
 
 ## Justificación del uso de Google Cloud Platform
@@ -209,7 +209,7 @@ Después de la transformación, los datos actualizados se cargan en la tabla exi
 
 
 <p align="center">
-  <img src="https://github.com/Adapa22/PF-MigracionEnAmerica/blob/main/src/diagrama%20flujo.JPG?raw=true">
+  <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/diagrama%20flujo.JPG">
 </p>  
 
 
