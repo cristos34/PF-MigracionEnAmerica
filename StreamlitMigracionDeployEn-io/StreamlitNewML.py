@@ -25,7 +25,7 @@ footer:after{
 }
 </style>
 """
-img=Image.open(r"assets/DatosEstrategicos.png")
+img=Image.open("https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/StreamlitMigracionDeployEn-io/assets/DatosEstrategicos.png")
 
 # Path del modelo preentrenado
 # MODEL_PATH = 'deployStreamlit/models'
@@ -44,9 +44,9 @@ st.set_page_config(
 #------------------------------------------------------------------------------
 # Cargar los datos en la app
 #------------------------------------------------------------------------------
-VulnerabilidadAmerica=pd.read_csv(r"Prediciones/PredicionesVulnerabilidadAmerica.csv",sep=",")
-RemesasAmerica=pd.read_csv(r"Prediciones/PredicionesRemesasAmerica.csv",sep=",")
-FlujosMigratoriosAmerica=pd.read_csv(r"Prediciones/PredicionesMigracionNeta.csv",sep=",")
+VulnerabilidadAmerica=pd.read_csv("https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/StreamlitMigracionDeployEn-io/Prediciones/PredicionesVulnerabilidadAmerica.csv",sep=",")
+RemesasAmerica=pd.read_csv("https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/StreamlitMigracionDeployEn-io/Prediciones/PredicionesRemesasAmerica.csv",sep=",")
+FlujosMigratoriosAmerica=pd.read_csv("https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/StreamlitMigracionDeployEn-io/Prediciones/PredicionesMigracionNeta.csv",sep=",")
 #-----------------------------------------------------------------------------
 # Crear un título para la aplicación centrado con codigo HTML
 #------------------------------------------------------------------------------
@@ -56,7 +56,7 @@ st.markdown(hide_menu,unsafe_allow_html=True) #--> para quitar el menu
 #-----------------------------------------------------------------------------
 # Crear una imagen de presentacion y un footer a la imagen
 #------------------------------------------------------------------------------
-image = Image.open(r"assets/portada3.PNG")
+image = Image.open("https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/StreamlitMigracionDeployEn-io/assets/portada3.PNG")
 st.image(image, caption='Modelos de machine learning')
 
 #-------------------------------------------------------------------------------------------------
