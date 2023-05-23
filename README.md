@@ -155,12 +155,12 @@ Se emplea el uso del Diagrama de Gantt como herramienta que nos permite visualiz
 ## Documentacion Google Cloud Platform
 En el presente documento se presentan los detalles técnicos del diseño de la base de datos relacional a implementar en nuestro Data Warehouse y los detalles de la estructuración del proyecto en Google Cloud Platform. Encontrarán algunos enlaces de interés, el diccionario de datos, el esquema entidad-relación, el diagrama del flujo de trabajo en GCP y el detalle del paso a paso realizado durante todo el proceso en la nube. 
 
-Para ver la documentación puede dirigirse al siguente enlace [Informe de proyecto](https://github.com/Adapa22/PF-MigracionEnAmerica/raw/main/Documentaci%C3%B3n%20Google%20Cloud%20Platform.docx) 
+Para ver la documentación puede dirigirse al siguente enlace [Informe de proyecto](https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/Documentaci%C3%B3n%20Google%20Cloud%20Platform.docx) 
 
 ## Diccionario de datos 
 Se establece una descripción detallada de todas las tablas con base en los conjuntos de datos empleados. En el diccionario se puede observar los nombres de las tablas y de las columnas, el tipo de dato de cada columna, la descripción de cada variable, el uso de llaves primarias y foráneas, etc. En las siguientes imágenes se muestra la totalidad del diccionario de datos.
 
-Para ver el diccionario de datos  puede dirigirse al siguente enlace [Diccionario de datos](https://github.com/Adapa22/PF-MigracionEnAmerica/blob/main/DICIONARIO%20DE%20DATOS.xlsx) 
+Para ver el diccionario de datos  puede dirigirse al siguente enlace [Diccionario de datos](https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/DICIONARIO%20DE%20DATOS.xlsx) 
 
 ## Esquema ER (Entidad-Relación) 
 Este es un modelo de datos que resulta útil para el diseño de la base de datos, ya que permite visualizar cómo se relacionan los datos antes de construir la estructura de la base de datos.
