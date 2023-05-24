@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/portada3.PNG">
+  <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/portada.PNG">
 </p>
 
 <!-- TABLA DE CONTENIDO -->
@@ -209,7 +209,7 @@ Después de la transformación, los datos actualizados se cargan en la tabla exi
 
 
 <p align="center">
-  <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/diagrama%20flujo.JPG">
+  <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/arquitectura.JPG">
 </p>  
 
 
