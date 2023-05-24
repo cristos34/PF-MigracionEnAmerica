@@ -81,7 +81,9 @@ Se refiere a la capacidad de la ONG para utilizar sus recursos de manera eficien
 <p align="center">
   <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/KPI.JPG">
 </p>
-### Tableros de control
+
+## Tableros de control
+
 Se cuenta con varios tableros de control que pemitirán monitorear la situación social y económica de los países, así como uno para la gestión de la ONG.
 
 <p align="center">
