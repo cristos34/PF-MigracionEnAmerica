@@ -2,49 +2,10 @@
 <p align="center">
   <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/portada.PNG">
 </p>
+## Enlaces de Interés
 
-<!-- TABLA DE CONTENIDO -->
-## Indice
-<details open="open">
-  <summary>Tabla de contenido: </summary>
-  <ol>
-    <li>
-      <a href="#DatosEstrategicos">DatosEstratégicos</a>
-      <ul>
-        <li><a href="#Quienes-somos">¿Quienes somos?</a></li>
-        <li><a href="#Nuestro-equipo">Nuestro equipo</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#Entendimiento-de-la-problemática">Entendimiento de la problemática</a>
-    </li>
-    <li>
-      <a href="#Propuesta-de-proyecto">Propuesta de proyecto</a>
-      <ul>
-        <li><a href="#Objetivos">Objetivos</a></li>
-        <li><a href="#Alcance">Alcance</a></li>
-        <li><a href="#Limitaciones">Limitaciones</a></li>
-        <li><a href="#kpis">KPIs</a></li>
-        <li><a href="#performance-del-modelo">Performance del modelo</a></li>
-        <li><a href="#Metodología-de-trabajo">Metodología de trabajo</a></li>
-        <li><a href="#Stack-tecnológico">Stack tecnológico</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#Informe-de-proyecto">Informe de proyecto</a>
-    </li>
-    <li>
-      <a href="#Presentacion-interactiva">Presentación interactiva</a>
-    </li>
-    <li>
-      <a href="#Cronología-general">Cronología general</a>
-      <ul>
-        <li><a href="#Diagrama-de-Gantt">Diagrama de Gantt</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
-
++ [Tableros de control](https://lookerstudio.google.com/reporting/31a7a9b6-0a53-44bb-bd06-6875bf5a3a1f/page/p_9l8kji675c) 
++ [Demo ETL en GCP](https://youtu.be/HIee2ShqlPQ) 
 
 ## DatosEstratégicos
 ### ¿Quienes somos?
@@ -104,8 +65,7 @@ El equipo de trabajo de DatosEstratégicos da a conocer un completo estudio y so
 + Todo área geográfica fuera de América
 + Cualquier otra actividad que demande mayor recurso de los ya mencionados
 
-### KPIs
-
+## KPIs
 + **Tasa de migración neta**: mide la diferencia entre el número de personas que abandonan un país y el número de personas que llegan a este. La meta es reducir la tasa en un 10% en los próximos dos años mediante programas que incentiven a la población a permanecer en el país.
 
 + **Tasa de desplazamiento forzado**: mide la cantidad de personas que han sido desplazadas forzosamente debido a conflictos armados, desastres naturales u otras causas. La meta es reducir la tasa de desplazamiento forzado en un 20% en los próximos cinco años mediante la implementación de medidas de protección a los derechos humanos.
