@@ -134,7 +134,7 @@ Utilizamos Scrum como metodología de trabajo para trabajar de .manera más efic
 Se emplea el uso del Diagrama de Gantt como herramienta que nos permite visualizar las actividades de progreso del proyecto y ajustar el plan según sea necesario.
 
 <p align="center">
-  <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/GANT.JPG">
+  <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/ganttfinal.png">
 </p>
 
 ## Documentacion Google Cloud Platform
@@ -152,6 +152,27 @@ Este es un modelo de datos que resulta útil para el diseño de la base de datos
 <p align="center">
   <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/MODELO%20ER.jpeg">
 </p>  
+
+## Streamlit
+
+Streamlit es un framework open source para la creación de aplicaciones web interactivas y basadas en datos. Está diseñado para facilitar la creación de aplicaciones de machine learning, visualización de datos y paneles de control de manera rápida y sencilla.
+
+Esta herramienta se usó con el fin de visualizar los datos arrojados por los diferentes modelos de predicción que generaron para este proyecto de forma real y a tiempo, para conocer el [documento]([https://github.com/Alekzander10](https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/StreamlitMigracionDeployEn-io/StreamlitNewML.py)), en el cual se manejaron diferentes librerías como son:
+
++ Streamlit
++ Numpy
++ Pandas
++ Pickle 
++ PIL
++ Scikit-Learn
+
+## Carpeta StreamlitMigracionDeployEn-io
+
+"Dentro de la carpeta StreamlitMigracionDeployEn-io, se encuentran los 4 archivos empleados para hacer el Deploy y visualizacion de los datos como son: Requirements.txt, Predicciones, Assets y el StreamlitNewML.py".
+
+## Carpeta pipelines
+
+"Dentro de la carpeta pipelines se encuentran los 2 archivos empleados para hacer el ETL y creación del DWH de forma automática. En el vídeo de demostración se explica el funcionamiento de los mismos".
 
 ## Justificación del uso de Google Cloud Platform
 
