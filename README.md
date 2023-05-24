@@ -87,12 +87,28 @@ Se refiere a la capacidad de la ONG para utilizar sus recursos de manera eficien
 
 Se cuenta con varios tableros de control que pemitirán monitorear la situación social y económica de los países, así como uno para la gestión de la ONG.
 
+### Tablero indicadores gestión ONG
+
+<p align="center">
+  <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/gestion.JPG">
+</p>
+
+### Tablero indicadores económicos de los países
+
 <p align="center">
   <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/tablero%20economic.JPG">
 </p>
 
+### Tablero indicadores sociales de los países
+
 <p align="center">
   <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/tablero%20social.JPG">
+</p>
+
+### Índice de vulnerabilidad migratoria para monitorear países de especial atención
+
+<p align="center">
+  <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/vuln.JPG">
 </p>
 
 ### Performance del modelo
