@@ -118,11 +118,17 @@ El equipo de trabajo de DatosEstratégicos da a conocer un completo estudio y so
 Se refiere a la capacidad de la ONG para utilizar sus recursos de manera eficiente. Este KPI se mide como el porcentaje de recursos destinados a la misión principal de la ONG en comparación con los gastos generales y administrativos. La meta es aumentar el porcentaje de recursos destinados a la misión principal en un 5% en el plazo de un año.
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/KPI.JPG">
+</p>
+### Tableros de control
+Se cuenta con varios tableros de control que pemitirán monitorear la situación social y económica de los países, así como uno para la gestión de la ONG.
+
+<p align="center">
+  <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/tablero%20economic.JPG">
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/tablero%20social.JPG">
 </p>
 
 ### Performance del modelo
