@@ -195,48 +195,9 @@ if query == "Predicción de Remesas para el año 2021":
         else:
              st.write(round(result,2))
             
-            # Aplicar estilos CSS para centrar el contenedor
-              
 
+#para EJECUTAR la Streamlit
 
-             #streamlit run StreamlitNewML.py
- 
-
-
-
-
-
-
-
-#if __name__ == '__main__':
- #main()
-
-
-   #link
-#para EJECUTAR la api
-# https://fastapi-platafomas-streaming.onrender.com/docs
-    
-#python -m venv venv #--> crear el ambiente virtual desde la terminal
-#crear el main.py #--> crear un archivo en el ambinete virtual
-#cd
-#.\venv\
-#Set-ExecutionPolicy -ExecutionPolicy Remotesigned -Scope process
-#.\Scripts\
-#.\activate
-#cd ..
-#cd ..
-#uvicorn main:app
-#uvicorn main:app --reload  #---> para que quede cocorriendo mientras dse programa
-#http://localhost:8000
-#http://localhost:8000/docs 
-#Para hacer del deploy --> renderizar 
-#pip list
-#pip uninstall pandas,numpy,etc
-#uvicorn main:app --host 0.0.0.0 --port 8080  
-#environment environment variables--> key:PIP_VERSION   value:22.3.1 #-->version
-#pip install --upgrade scikit-learn
-#pip freeze > requirements.txt
-# Para correr este archivo en local
 #streamlit run StreamlitNewML.py
 
  
