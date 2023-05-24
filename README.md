@@ -157,7 +157,7 @@ Este es un modelo de datos que resulta útil para el diseño de la base de datos
 
 Streamlit es un framework open source para la creación de aplicaciones web interactivas y basadas en datos. Está diseñado para facilitar la creación de aplicaciones de machine learning, visualización de datos y paneles de control de manera rápida y sencilla.
 
-Esta herramienta se usó con el fin de visualizar los datos arrojados por los diferentes modelos de predicción que generaron para este proyecto de forma real y a tiempo, para conocer el [documento]([https://github.com/Alekzander10](https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/StreamlitMigracionDeployEn-io/StreamlitNewML.py)), en el cual se manejaron diferentes librerías como son:
+Esta herramienta se usó con el fin de visualizar los datos arrojados por los diferentes modelos de predicción que generaron para este proyecto de forma real y a tiempo, para conocer el [documento](https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/StreamlitMigracionDeployEn-io/StreamlitNewML.py), en el cual se manejaron diferentes librerías como son:
 
 + Streamlit
 + Numpy
@@ -168,7 +168,7 @@ Esta herramienta se usó con el fin de visualizar los datos arrojados por los di
 
 ## Carpeta StreamlitMigracionDeployEn-io
 
-"Dentro de la carpeta StreamlitMigracionDeployEn-io, se encuentran los 4 archivos empleados para hacer el Deploy y visualizacion de los datos como son: Requirements.txt, Predicciones, Assets y el StreamlitNewML.py".
+"Dentro de la carpeta StreamlitMigracionDeployEn-io, se encuentran los 4 archivos empleados para hacer el Deploy y visualizacion de los datos como son: [Requirements.txt](https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/StreamlitMigracionDeployEn-io/requirements.txt), [Predicciones](https://github.com/cristos34/PF-MigracionEnAmerica/tree/main/StreamlitMigracionDeployEn-io/Prediciones), [Assets](https://github.com/cristos34/PF-MigracionEnAmerica/tree/main/StreamlitMigracionDeployEn-io/assets) y el [StreamlitNewML.py](https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/StreamlitMigracionDeployEn-io/StreamlitNewML.py)".
 
 ## Carpeta pipelines
 
