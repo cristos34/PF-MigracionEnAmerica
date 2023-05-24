@@ -5,7 +5,8 @@
 
 ## Enlaces de Interés
 
-+ [Tableros de control](https://lookerstudio.google.com/reporting/31a7a9b6-0a53-44bb-bd06-6875bf5a3a1f/page/p_9l8kji675c) 
++ [Tableros de control](https://lookerstudio.google.com/reporting/31a7a9b6-0a53-44bb-bd06-6875bf5a3a1f/page/p_9l8kji675c)
++ [Modelo de IA deployado en Streamlit](https://cristos34-pf-streamlitmigraciondeployen-iostreamlitnewml-14juu5.streamlit.app/)  
 + [Demo ETL en GCP](https://youtu.be/HIee2ShqlPQ) 
 
 ## DatosEstratégicos
@@ -117,29 +118,27 @@ Utilizamos Scrum como metodología de trabajo para trabajar de .manera más efic
 Se emplea el uso del Diagrama de Gantt como herramienta que nos permite visualizar las actividades de progreso del proyecto y ajustar el plan según sea necesario.
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/GANT.JPG">
 </p>
 
 ## Documentacion Google Cloud Platform
+
 En el presente documento se presentan los detalles técnicos del diseño de la base de datos relacional a implementar en nuestro Data Warehouse y los detalles de la estructuración del proyecto en Google Cloud Platform. Encontrarán algunos enlaces de interés, el diccionario de datos, el esquema entidad-relación, el diagrama del flujo de trabajo en GCP y el detalle del paso a paso realizado durante todo el proceso en la nube. 
 
-Para ver la documentación puede dirigirse al siguente enlace [Informe de proyecto](https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/Documentaci%C3%B3n%20Google%20Cloud%20Platform.docx) 
-
 ## Diccionario de datos 
+
 Se establece una descripción detallada de todas las tablas con base en los conjuntos de datos empleados. En el diccionario se puede observar los nombres de las tablas y de las columnas, el tipo de dato de cada columna, la descripción de cada variable, el uso de llaves primarias y foráneas, etc. En las siguientes imágenes se muestra la totalidad del diccionario de datos.
 
-Para ver el diccionario de datos  puede dirigirse al siguente enlace [Diccionario de datos](https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/DICIONARIO%20DE%20DATOS.xlsx) 
-
 ## Esquema ER (Entidad-Relación) 
-Este es un modelo de datos que resulta útil para el diseño de la base de datos, ya que permite visualizar cómo se relacionan los datos antes de construir la estructura de la base de datos.
 
-Para ver el esquema ER (Entidad-Relación)  puede dirigirse al siguente enlace [Esquema ER](https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/MODELO%20ER.jpeg) 
+Este es un modelo de datos que resulta útil para el diseño de la base de datos, ya que permite visualizar cómo se relacionan los datos antes de construir la estructura de la base de datos.
 
 <p align="center">
   <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/MODELO%20ER.jpeg">
 </p>  
 
 ## Justificación del uso de Google Cloud Platform
+
 Decidimos realizar el proceso de ETL y Data Warehouse en la plataforma de Google Cloud debido a la flexibilidad y amplia gama de tecnologías que ofrece, muchas de ellas orientadas hacia los procesos de Big Data, Machine Learning, Data Analytics, entre otros. Luego también permite una fácil conexión entre diferentes herramientas incluyendo Looker Studio para la visualización.
 
 Aparte de las ventajas mencionadas que ofrece Google Cloud Platform, realizar nuestro proceso de ETL nube también presenta muchas otras ventajas como:
@@ -175,17 +174,7 @@ En este diagrama, podemos ver que el proceso comienza con la lectura de los dato
 
 Después de la transformación, los datos actualizados se cargan en la tabla existente, manteniendo los datos antiguos que ya se encuentran allí. Este proceso se puede repetir de forma regular para mantener actualizada la tabla con los nuevos datos.  
 
-
 <p align="center">
   <img src="https://github.com/cristos34/PF-MigracionEnAmerica/blob/main/src/arquitectura.JPG">
-</p>  
-
-
-## Presentación interactiva
-[Primera Presentración](https://lookerstudio.google.com/u/0/reporting/e1e9c2f5-2c73-4b5d-b35c-08a8f3ec56e7/page/3p1OD) 
-
-[Segunda Presentración](https://lookerstudio.google.com/reporting/eebc7c1c-eb2d-4415-939f-b1) 
-
-## Prueba funcionamiento Pipelines
-[Pipelines](https://youtu.be/FzxQB865p-Y) 
+</p> 
 
