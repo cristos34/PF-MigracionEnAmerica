@@ -22,7 +22,7 @@ Nuestro equipo de expertos está constantemente actualizado en las últimas tend
 + [Alexander Rios](https://github.com/Alekzander10) - Data Analyst
 + [Cristian Andres](https://github.com/cristos34) - Data Engineer
 + [Ricardo Soria](https://github.com/RickDev31) - Data Scientist
-+ [Santiago Zapata](https://github.com/santizapata5) - Data Engineer / Data Analyst
++ [Santiago Zapata](https://github.com/santizapata5) - Data Engineer
 
 ### Dirección de proyecto
 + [Maico Bernal](https://github.com/maicobernal) - Scrum Master
