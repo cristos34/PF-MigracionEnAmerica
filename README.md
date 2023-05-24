@@ -59,10 +59,10 @@ Nuestro equipo de expertos está constantemente actualizado en las últimas tend
 + [Alexander Rios](https://github.com/Alekzander10) - Data Analyst
 + [Cristian Andres](https://github.com/cristos34) - Data Engineer
 + [Ricardo Soria](https://github.com/RickDev31) - Data Scientist
-+ [Santiago Zapata](https://github.com/santizapata5) - Data Analyst
++ [Santiago Zapata](https://github.com/santizapata5) - Data Engineer / Data Analyst
 
 ### Dirección de proyecto
-+ [Maico Bernal](https://github.com/maicobernal) - Scrum master
++ [Maico Bernal](https://github.com/maicobernal) - Scrum Master
 
 ## Entendimiento de la problemática
 
@@ -92,7 +92,6 @@ El equipo de trabajo de DatosEstratégicos da a conocer un completo estudio y so
   + Estudiar los principales destinos de los migrantes y analizar las razones detrás de sus elecciones.
   + Predecir futuros patrones de migración de acuerdo a las condiciones socioeconómico actuales.
 
-
 ### Alcance
 
 + Negocio objetivo: ONG internacinal
@@ -119,11 +118,11 @@ El equipo de trabajo de DatosEstratégicos da a conocer un completo estudio y so
 Se refiere a la capacidad de la ONG para utilizar sus recursos de manera eficiente. Este KPI se mide como el porcentaje de recursos destinados a la misión principal de la ONG en comparación con los gastos generales y administrativos. La meta es aumentar el porcentaje de recursos destinados a la misión principal en un 5% en el plazo de un año.
 
 <p align="center">
-  <img src="https://i.ibb.co/NFPnnfL/kpi.png">
+  <img src="">
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/nbqwK14/dashb.png">
+  <img src="">
 </p>
 
 ### Performance del modelo
@@ -149,7 +148,7 @@ Utilizamos Scrum como metodología de trabajo para trabajar de .manera más efic
 Se emplea el uso del Diagrama de Gantt como herramienta que nos permite visualizar las actividades de progreso del proyecto y ajustar el plan según sea necesario.
 
 <p align="center">
-  <img src="https://i.ibb.co/nbqwK14/dashb.png">
+  <img src="">
 </p>
 
 ## Documentacion Google Cloud Platform
